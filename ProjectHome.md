@@ -1,0 +1,1 @@
+just a collection of image processing classes.  initially for actionscript.
